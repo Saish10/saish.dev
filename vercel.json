@@ -1,0 +1,27 @@
+{
+	"version": 2,
+	"alias": "saish14.me",
+	"cleanUrls": true,
+	"public": true,
+	"regions": [
+		"lhr1"
+	],
+	"redirects": [
+		{
+			"source": "/github",
+			"destination": "https://github.com/Saish10"
+		},
+		{
+			"source": "/linkedin",
+			"destination": "https://www.linkedin.com/in/saish-naik-b11507168/"
+		},
+		{
+			"source": "/portfolio",
+			"destination": "/projects"
+		},
+		{
+			"source": "/twitter",
+			"destination": "https://twitter.com/Saish_14"
+		}
+	]
+}

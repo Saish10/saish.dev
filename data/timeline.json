@@ -1,0 +1,38 @@
+[
+	{
+		"date": "07-31-2022",
+		"title": "Don Bosco College of Engineering",
+		"description": "Successfully Completed Bachelor's Degree",
+		"icon": "feather:book"
+	},
+	{
+		"date": "02-11-2022",
+		"title": "Intern Software Engineer",
+		"description": "Joined Trellissoft as Python developer",
+		"icon": "feather:code"
+	},
+	{
+		"date": "07-03-2018",
+		"title": "Don Bosco College of Engineering",
+		"description": "Joined DBCE in Computer Engineering Branch",
+		"icon": "feather:book"
+	},
+	{
+		"date": "06-7-2016",
+		"title": "Shree Damodar HSS of Science!",
+		"description": "Joined Higher Secondary and completedgi HSSC with 62% In 2018",
+		"icon": "feather:book"
+	},
+	{
+		"date": "06-4-2010",
+		"title": "Holy Spirit Institute",
+		"description": "Joined High School and completed SSC with 76% in 2016.",
+		"icon": "feather:book"
+	},
+	{
+		"date": "12-14-1999",
+		"title": "Birthday!",
+		"description": "I was born the 14th of December 1999",
+		"icon": "feather:gift"
+	}
+]
