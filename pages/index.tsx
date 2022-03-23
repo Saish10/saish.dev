@@ -86,7 +86,7 @@ const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
 		external: true,
-		href: '/Saish_Naik.pdf',
+		href: 'https://drive.google.com/file/d/1IVyf0FK16ssxRpReosrmYrX4qoH9n0ek/view?usp=sharing',
 		icon: <ActionIcon icon="feather:file-text" />,
 		text: 'Resume',
 	},
